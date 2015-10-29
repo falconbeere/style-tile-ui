@@ -3,16 +3,51 @@
 /***************/
 
 /* Color Palette */
-
+.color-1 {
+    background:rgb(255, 115, 190);
+}
+.color-2 {
+    background: rgb(71, 190, 204);
+}
+.color-3 {
+    background: rgb(255, 241, 140);
+}
+.color-4 {
+    background: rgb(71, 167, 178);
+}
+.color-5 {
+    background: rgb(178, 62, 125);
+}
 
 /* Textures or Patterns*/
-
-
+.pattern-1 {
+    background: url(../img/pink_rice.png);
+}
+.pattern-2 {
+    background: url(../img/symphony.png);
+}
+.pattern-3 {
+    background: url(../img/tree_bark.png);
+}
 /* Imagery */
+.imagery-1 {
+    background: url();
+}
+.imagery-2 {
 
+}
+.imagery-3 {
+
+}
+.imagery-4
+.imagery-5
 
 /* Icons */
-
+.icon-1
+.icon-2
+.icon-3
+.icon-4
+.icon-5
 
 /* Typography */
 
