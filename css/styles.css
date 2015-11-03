@@ -69,8 +69,9 @@ td {
 
 /* Cards */
 figure {
-    border-radius: 12px;
+    border-radius: 20px;
     background: rgb(71, 190, 204);
+    border: 
 }
 figure h2 {
     font-family: 'Cinzel', serif;
