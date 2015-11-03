@@ -40,13 +40,17 @@
     background: url();
 }
 .imagery-2 {
-
+    background: url();
 }
 .imagery-3 {
-
+    background: url();
 }
-.imagery-4
-.imagery-5
+.imagery-4 {
+    background: url();
+}
+.imagery-5 {
+    background: url();
+}
 
 /* Icons */
 .icon-1
@@ -56,6 +60,9 @@
 .icon-5
 
 /* Typography */
+section.grid-3 h2 h2 {
+    font-family: 'Lora', serif;
+}
 p {
     font-family: 'Lora', serif;
 }
@@ -64,14 +71,12 @@ p {
     background: rgb(71, 167, 178);
     border-radius: 8px;
     border: none;
+    color: white;
 }
-
-
-/* Forms */
-
-
 /* Tables */
-
+td {
+    font-family: 'Lora', serif;
+}
 
 /* Cards */
 figure {
@@ -86,12 +91,21 @@ line-decoration: none;
     display: none;
 }
 a {
-    color: cornflowerblue;
+    color: rgb(71, 190, 204);
     text-decoration: none;
 }
 a:click {
     color: dodgerblue
 }
 a:hover {
-    color: blueviolet
+    color: rgb(178, 62, 125);
+}
+.pnav h2 {
+    font-family: 'Lora', serif;
+}
+.link-button {
+    color: white;
+    border-radius: 8px;
+    border: none;
+    background: rgb(71, 190, 204);
 }
