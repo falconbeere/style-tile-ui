@@ -60,8 +60,11 @@
 .icon-5
 
 /* Typography */
-section.grid-3 h2 h2 {
+h2 {
     font-family: 'Lora', serif;
+}
+h3 {
+    font-family: 'Cinzel', serif;
 }
 p {
     font-family: 'Lora', serif;
@@ -84,12 +87,6 @@ border-radius: 12px;
 }
 
 /* Navigation */
-section h2 nav ul li a {
-line-decoration: none;
-}
-# {
-    display: none;
-}
 a {
     color: rgb(71, 190, 204);
     text-decoration: none;
@@ -108,4 +105,5 @@ a:hover {
     border-radius: 8px;
     border: none;
     background: rgb(71, 190, 204);
+    font-family: sans-serif;
 }
