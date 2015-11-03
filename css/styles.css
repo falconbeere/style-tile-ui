@@ -29,6 +29,12 @@
 .pattern-3 {
     background: url(../img/tree_bark.png);
 }
+.pattern-4 {
+    background: url(../img/upfeathers.png);
+}
+.pattern-5 {
+    background: url(../img/photography.png);
+}
 /* Imagery */
 .imagery-1 {
     background: url();
@@ -50,6 +56,15 @@
 .icon-5
 
 /* Typography */
+p {
+    font-family: 'Lora', serif;
+}
+/* Forms */
+.button-a {
+    background: rgb(71, 167, 178);
+    border-radius: 8px;
+    border: none;
+}
 
 
 /* Forms */
@@ -59,3 +74,24 @@
 
 
 /* Cards */
+figure {
+border-radius: 12px;
+}
+
+/* Navigation */
+section h2 nav ul li a {
+line-decoration: none;
+}
+# {
+    display: none;
+}
+a {
+    color: cornflowerblue;
+    text-decoration: none;
+}
+a:click {
+    color: dodgerblue
+}
+a:hover {
+    color: blueviolet
+}
