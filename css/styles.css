@@ -36,37 +36,23 @@
     background: url(../img/photography.png);
 }
 /* Imagery */
-.imagery-1 {
-    background: url();
-}
-.imagery-2 {
-    background: url();
-}
-.imagery-3 {
-    background: url();
-}
-.imagery-4 {
-    background: url();
-}
-.imagery-5 {
-    background: url();
-}
+
 
 /* Icons */
-.icon-1
-.icon-2
-.icon-3
-.icon-4
-.icon-5
+
 
 /* Typography */
-h2 {
+section h2 {
     font-family: 'Lora', serif;
 }
-h3 {
+
+section h3 {
     font-family: 'Cinzel', serif;
 }
 p {
+    font-family: 'Lora', serif;
+}
+section label {
     font-family: 'Lora', serif;
 }
 /* Forms */
@@ -84,6 +70,12 @@ td {
 /* Cards */
 figure {
 border-radius: 12px;
+}
+figure h2 {
+    font-family: 'Cinzel', serif;
+}
+figure h3 {
+    font-family: 'Lora', serif;
 }
 
 /* Navigation */
