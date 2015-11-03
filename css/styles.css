@@ -69,13 +69,17 @@ td {
 
 /* Cards */
 figure {
-border-radius: 12px;
+    border-radius: 12px;
+    background: rgb(71, 190, 204);
 }
 figure h2 {
     font-family: 'Cinzel', serif;
 }
 figure h3 {
     font-family: 'Lora', serif;
+}
+figure img {
+    border-radius: 50%;
 }
 
 /* Navigation */
